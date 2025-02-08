@@ -72,10 +72,14 @@
 筛选后接口源
 ```bash
 https://ghproxy.cc/https://raw.githubusercontent.com/HashimaL/tivi/master/output/user_result.m3u
+```
+```bash
 https://ghproxy.cc/https://raw.githubusercontent.com/HashimaL/tivi/master/output/user_result.txt
 ```
 ```bash
 https://cdn.jsdelivr.net/gh/HashimaL/tivi@master/output/user_result.m3u
+```
+```bash
 https://cdn.jsdelivr.net/gh/HashimaL/tivi@master/output/user_result.txt
 ```
 
