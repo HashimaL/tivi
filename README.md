@@ -69,7 +69,7 @@
 
 ## 最新结果
 
--筛选后接口源
+- 筛选后接口源
 ```bash
 https://ghproxy.cc/https://raw.githubusercontent.com/HashimaL/tivi/master/output/user_result.m3u
 ```
